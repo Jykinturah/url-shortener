@@ -1,0 +1,7 @@
+*.env
+.env
+.DS_Store
+/node_modules
+/public/*
+!**/README.md
+npm-debug.log
